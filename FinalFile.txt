@@ -1,0 +1,32 @@
+
+Smart Traffic Management 
+System using Image Processing 
+ 
+Jerome K, Manoj S Nagendra 
+St. Joseph’s College of Engineering 
+ivanjerome99@gmail.com; manojnagendra@gmail.com  
+9840940416; 9566270844  
+ 
+Abstract— The usage of vehicles is rapidly increasing due to recent technological and 
+economic development, and at the same time, the lack of infrastructure against the demand is 
+leading to an increasing number of accidents and fatality of life. The trivial issues in our life 
+system motivated us to come up with an application to automate this process and save lives. 
+With a review of literature and brainstorming, I proposed the project on a smart traffic 
+management system using image processing. The objective of this project is to develop a (1) 
+simulation to determine the traffic density, (2) detect a crash/accident, (3) detect ambulance 
+using image processing and machine learning techniques.  
+In the first phase, we determined traffic density to minimize the delay caused by traffic 
+congestion and to provide the smooth flow of vehicles. The density of vehicles on each side can 
+be identified by using datasets. If the density is low on a particular side, the period for that side 
+is normal and if the density is high the period will automatically increase compared to normal 
+density. In the second phase, we simulated a crash or accident detection and for the prototype 
+consideration, we have used static accidental image and trained model. In the third phase, 
+analysed ambulance detection using the dataset, for the prototype consideration for this, used 
+static ambulance image and trained dataset. On detection of an ambulance, the traffic light is 
+automatically changed to green. In each phase, the data updating and monitoring are provided. 
+This scheme is fully automated and identifies the emergency vehicle and controls the traffic 
+lights dynamically. Hence, the projects result in traffic management using image processing 
+techniques. 
+ 
+Keywords- Vehicle Density Calculation, Crash Alert, Ambulance Detection, 
+Background Subtraction, Edge Detection, Template Matching 
