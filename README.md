@@ -1,7 +1,7 @@
 # Techfully_Round2
 Java Application to read the text content inside the PDF and save it as a text file
 
-Step 1 : Import the Jar file to the environment
+Step 1 : Import the Jar file (pdfbox-app-2.0.4.jar) to the environment
 
 Step 2 : Run the file 
 
